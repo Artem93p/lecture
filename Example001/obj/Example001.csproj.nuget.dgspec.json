@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artem\\Desktop\\Знакомство с языками программирования (лекции) C#\\Examples\\Example001\\Example001.csproj": {}
+    "C:\\Users\\artem\\Desktop\\Знакомство с языками программирования C#\\Лекции\\Examples\\Example001\\Example001.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artem\\Desktop\\Знакомство с языками программирования (лекции) C#\\Examples\\Example001\\Example001.csproj": {
+    "C:\\Users\\artem\\Desktop\\Знакомство с языками программирования C#\\Лекции\\Examples\\Example001\\Example001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artem\\Desktop\\Знакомство с языками программирования (лекции) C#\\Examples\\Example001\\Example001.csproj",
+        "projectUniqueName": "C:\\Users\\artem\\Desktop\\Знакомство с языками программирования C#\\Лекции\\Examples\\Example001\\Example001.csproj",
         "projectName": "Example001",
-        "projectPath": "C:\\Users\\artem\\Desktop\\Знакомство с языками программирования (лекции) C#\\Examples\\Example001\\Example001.csproj",
+        "projectPath": "C:\\Users\\artem\\Desktop\\Знакомство с языками программирования C#\\Лекции\\Examples\\Example001\\Example001.csproj",
         "packagesPath": "C:\\Users\\artem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artem\\Desktop\\Знакомство с языками программирования (лекции) C#\\Examples\\Example001\\obj\\",
+        "outputPath": "C:\\Users\\artem\\Desktop\\Знакомство с языками программирования C#\\Лекции\\Examples\\Example001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\artem\\AppData\\Roaming\\NuGet\\NuGet.Config"
